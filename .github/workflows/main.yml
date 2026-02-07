@@ -1,4 +1,4 @@
-name: SSH+RDP
+name: RDP_By_DuftCoder
 
 on:
   workflow_dispatch:
